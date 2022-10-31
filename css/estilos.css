@@ -1,0 +1,22 @@
+.box-slider {
+    background: rgb(52, 53, 53);
+}
+
+footer {
+    background: rgb(0, 0, 0);
+}
+
+.caja {
+    background-color: rgb(164, 176, 185);
+    border: cadetblue;
+    border-radius: 12px;
+    padding: 10px;
+
+
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
